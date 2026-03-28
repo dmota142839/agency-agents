@@ -76,3 +76,8 @@ integrations/windsurf/.windsurfrules
 integrations/openclaw/*
 integrations/qwen/agents/
 !integrations/openclaw/README.md
+
+# IDE and AI tool config dirs — local only
+.cursor/
+.opencode/
+.qwen/
